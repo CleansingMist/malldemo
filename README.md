@@ -1,2 +1,2 @@
 # malldemo
-# this is a mall
+# This is a mall designed by SpringBoot
